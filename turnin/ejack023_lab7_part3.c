@@ -14,7 +14,7 @@
 #include "simAVRHeader.h"
 #endif
 
-unsigned short MAX_g = 1100;
+unsigned short MAX_g = 985;
 unsigned short val = 0x0000;
 unsigned char B = 0x00;
 
